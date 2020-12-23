@@ -8,6 +8,9 @@
 Формат сдачи:
 Vagrantfile + ansible 
 
+Схема стенда: 
+
+
 ![alt text](https://github.com/imustgetout/21th-homework-OSPF/blob/main/frr.png)
 
 ### 1. Поднять OSPF между машинами на базе Quagga
