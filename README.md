@@ -8,6 +8,8 @@
 Формат сдачи:
 Vagrantfile + ansible 
 
+![alt text]frr.png
+
 ### 1. Поднять OSPF между машинами на базе Quagga
 Прилагается Vagrantfile для создания виртуалок и playbook.yml для провижина.
 
